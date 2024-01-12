@@ -2,7 +2,7 @@ class CategoriesController < ApplicationController
   def index
     @categories = Category.includes(:exchanges, :author).where(author: current_user)
   end
-  
+
   def new
     @category = current_user.categories.build
   end
