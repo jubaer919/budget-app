@@ -97,13 +97,14 @@ After you're finished please remove all the comments and instructions!
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
+- [Live Demo Link](https://budget-app-x0v6.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Presentation Video -->
 ## 🎥 Presentation Video <a name="presentation-video"></a>
 
+- [Presentation Video Link](https://www.loom.com/share/019e038d603d449e9b11861e6a54ccbc?sid=0919fc8c-5fc7-4243-84ff-53945b632f93)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
