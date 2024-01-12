@@ -1,10 +1,10 @@
 class Ability
   include CanCan::Ability
 
-  def initialize(current_user)
+  def initialize(user)
     # Define abilities for the user here.
     # For example, allow users with the role 'admin' to manage all resources.
-    if current_user.admin?
+    if user.admin?
       can :manage, :all
     else
       # Define other rules for non-admin users here.
